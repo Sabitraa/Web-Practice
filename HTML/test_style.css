@@ -1,6 +1,7 @@
 *{
     background-color: rgb(33, 37, 37);
     font-family: monospace;
+    background: image();
 }
 .container{
     border: 1px solid greenyellow;
@@ -40,4 +41,5 @@
     color: aqua;
     border: 2px solid black;
     border-radius: 6px;
+    background: linear-gradient(rgb(114, 90, 99), rgb(255, 17, 231) );
 }
