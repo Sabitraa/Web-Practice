@@ -2,3 +2,9 @@
     background-color: rgb(33, 37, 37);
     font-family: monospace;
 }
+.container{
+    border: 1px solid greenyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
