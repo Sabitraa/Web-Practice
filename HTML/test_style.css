@@ -1,7 +1,12 @@
 *{
-    background-color: rgb(33, 37, 37);
     font-family: monospace;
-    background: image();
+}
+body{
+    background: url("../Images/image_1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 .container{
     border: 1px solid greenyellow;
