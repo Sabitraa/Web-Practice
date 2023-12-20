@@ -6,7 +6,6 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
 .container{
     border: 1px solid greenyellow;
@@ -26,6 +25,8 @@ body{
     height: 30px;
     width: 200px;
     border: 1px solid black;
+    outline: none;
+    border-radius: 6px;
 }
 .name_box{
     display: flex;
