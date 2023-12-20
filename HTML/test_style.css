@@ -7,6 +7,37 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 200px;
+    height: 400px;
     width: 600px;
+    margin-top: 100px;
+    box-shadow: 4px 1px 10px aqua
+}
+#label{
+    font-size: 20px;
+    color: aqua;
+}
+#username, #password{
+    height: 30px;
+    width: 200px;
+    border: 1px solid black;
+}
+.name_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.pw_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+#button{
+    width: 80px;
+    height: 35px;
+    color: aqua;
+    border: 2px solid black;
+    border-radius: 6px;
 }
